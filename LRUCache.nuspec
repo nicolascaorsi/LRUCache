@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>LRUCache</id>
+    <version>0.1</version>
+    <authors>Nicolás Caorsi</authors>
+    <owners>>Nicolás Caorsi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package provides a simple thread-safe LRU cache implementation.</description>
+    <releaseNotes>
+    #### 0.1
+    - First release
+    </releaseNotes>
+    <copyright>Copyright ® 2015</copyright>
+    <tags>LRU Cache</tags>
+  </metadata>
+  <files>
+    <file src="LRUCache/bin/Release/**/*.*" target="lib\portable-net45+win+wpa81+Xamarin.iOS10+MonoAndroid10+MonoTouch10" />
+  </files>
+</package>
